@@ -27,7 +27,7 @@
 }
 
 .body_container {
-  width: 900px;
+  width: 78vw;
   height: 500px;
   display: flex;
   flex-direction: column;
