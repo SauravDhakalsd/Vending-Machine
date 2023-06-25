@@ -1,0 +1,6 @@
+.scanner {
+  border: 3px solid #3bb19b !important;
+  border-radius: 5px !important;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2) !important;
+  padding: 20px !important;
+}
